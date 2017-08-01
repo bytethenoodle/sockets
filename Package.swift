@@ -8,6 +8,6 @@ let package = Package(
     ],
     dependencies: [
         // Core extensions, type-aliases, and functions that facilitate common tasks.
-        .Package(url: "https://github.com/vapor/core.git", majorVersion: 2),
+        .Package(url: "https://github.com/bytethenoodle/core.git", majorVersion: 2),
     ]
 )
